@@ -1,0 +1,8 @@
+Customer Name,Order Item,Price,Quantity
+Alex,Shoes,158,1
+Olivia,Pajamas,39.90,4
+
+Tom,Bag,9.90,1
+Lucas,T-Shirt,29.90,1
+Charlotte,Accessory,12,5
+
